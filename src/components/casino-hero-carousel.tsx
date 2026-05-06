@@ -3,7 +3,7 @@
 import Image from "next/image";
 import Link from "next/link";
 import { useCallback, useEffect, useState } from "react";
-//Git Geniue
+//Git Geniue   
 const SLIDES = [
   {
     sub: "Play slots, cards, and tables — demo promo pack",
