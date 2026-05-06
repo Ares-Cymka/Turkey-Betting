@@ -61,7 +61,7 @@ body {
   background-size: 180px 180px;
 }
 
-.page-doodles > * {
+.page-doodles > *:not(.layout-overlay) {
   position: relative;
   z-index: 1;
 }

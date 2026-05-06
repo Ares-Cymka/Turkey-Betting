@@ -75,7 +75,7 @@ export function AdultVerificationGate() {
 
   return (
     <div
-      className="fixed inset-0 z-[100] flex items-center justify-center bg-[#020617]/88 p-4 backdrop-blur-md"
+      className="layout-overlay fixed inset-0 z-[100] flex items-center justify-center bg-[#020617]/88 p-4 backdrop-blur-md"
       role="presentation"
     >
       <div
